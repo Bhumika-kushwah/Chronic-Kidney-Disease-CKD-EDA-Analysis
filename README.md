@@ -185,7 +185,7 @@ jupyter notebook
 ## 🤝 Connect With Me
 I’m currently learning Data Analytics and building real-world projects.
 
-- LinkedIn: (Add your LinkedIn profile)  
+LinkedIn: (https://www.linkedin.com/in/bhumika-kushwah-64ab3125a/)  
 - GitHub: (https://github.com/Bhumika-kushwah)  
 
 ---
